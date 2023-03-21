@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>EventsAndDelegates.MultiCastDelegateStartup</StartupObject>
+    <StartupObject>EventsAndDelegates.MainEventClass</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,9 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EventTest.cs" />
+    <Compile Include="MainEventClass.cs" />
     <Compile Include="MultiCastDelegateStartup.cs" />
     <Compile Include="MyFirstDelegateStartup.cs" />
     <Compile Include="NumberChanger.cs" />
+    <Compile Include="NumManipulationHandler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
