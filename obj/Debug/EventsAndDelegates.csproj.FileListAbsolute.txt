@@ -1,0 +1,8 @@
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.AssemblyReference.cache
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
